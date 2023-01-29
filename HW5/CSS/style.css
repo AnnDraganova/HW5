@@ -1,12 +1,12 @@
-
-
 h1 {
     color: blue;
     border-bottom: 5px;
 }
+
 .span {
     color: cyan;
 }
+
 #span {
 color: coral;
 border: 1px solid blue;
@@ -15,10 +15,12 @@ border: 1px solid blue;
 #main {
     background: white;
 }
+
 .main>.p {
     color: rgb(235, 29, 91);
     font-size: larger;
 }
+
 .main .p {
     color: chartreuse;
 }
@@ -35,6 +37,7 @@ li~li {
     background: blue ;
     color: aqua;
 }
+
 [type="password"] {
     background-color: cornsilk;
 }
